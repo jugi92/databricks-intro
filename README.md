@@ -1,2 +1,2 @@
-# databricks-intro
-An introduction to analyzing data using Spark in Azure Databricks
+# Introduction to Databricks
+Use the labs in this repo to get started with Spark in Azure Databricks.

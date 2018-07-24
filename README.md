@@ -1,3 +1,4 @@
+
 # Introduction to Databricks
 Use the labs in this repo to get started with Spark in Azure Databricks.
 
@@ -6,3 +7,5 @@ Start by following the [Setup Guide](Setup%20Guide.pdf) to prepare your Azure en
 2. [Lab 2 - Running a Spark Job](Lab%202%20-%20Running%20a%20Spark%20Job.pdf). In this lab, you'll learn how to configure a Spark job for unattended execution so that you can schedule batch processing workloads.
 3. [Lab 3 - Using Structured Streaming](Lab%203%20-%20Using%20Structured%20Streaming.pdf). In this lab you'll learn how to use Spark to process an unbounded stream of realtime data; a common requirement in Internet-of-Things (IoT) scenarios.
 4. [Lab 4 - Introduction to Machine Learning.pdf](Lab%204%20-%20Introduction%20to%20Machine%20Learning.pdf). In this lab you'll get started with machine learning by using Spark to train and evaluate a classification model.
+
+If you want to learn more about Machine Learning in Databricks, take a look at [Machine Learning with Databricks](https://github.com/MicrosoftLearning/databricks-ml)
